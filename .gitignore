@@ -1,2 +1,4 @@
 dataset/
 weights/
+testmidis/
+dataset_text/seq2note_int.txt
